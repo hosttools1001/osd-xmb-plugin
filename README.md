@@ -12,12 +12,7 @@ plugins para o osd-xmb
 📌 **Plugin para listar apps do mass e mc**
 
 📌 **Plugin gme_999_xAPPS.xml**
-- - ```diff
-! O gme_999_xAPPS.xml deve ser colocado na pasta PLG do OSDXMB
-``
+- - ```diff! O gme_999_xAPPS.xml deve ser colocado na pasta PLG do OSDXMB``
 
 - **Raiz dos elf**:
-- ```diff
-! mass:/APPS ou mc:/APPS
-
-``` 
+- ```diff! mass:/APPS ou mc:/APPS``` 
